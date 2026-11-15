@@ -1,2 +1,1 @@
-# cse-learning
-My CSE learning journey, programming practice and beginner projects.
+My career aspiration project showcasing my skills, goals, and interest in a technical career in the Indian Railways.
